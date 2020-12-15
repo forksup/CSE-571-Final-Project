@@ -8,7 +8,7 @@ For our final project, me and a team of two implemented bidirectional search in 
 
 This pacman domain is a simple food search problem. The pacman explores the maze searching for a single goal node such as is shown below. The darker red is paths explored sooner on in the lifetime of the agent. 
 
-![pacman Domain](https://bobzhai.files.wordpress.com/2017/03/dfs.gif?w=349)
+![pacman Domain](https://i.imgur.com/0ZlCjHl.gif)
 
 
 We have completed an analysis of this algorithm and compared it with other search methods such as DFS, BFS, and UCS. All of our analysis can be found in the [Final_Report.pdf](https://github.com/forksup/CSE-571-Final-Project/blob/main/Final_Report.pdf)
