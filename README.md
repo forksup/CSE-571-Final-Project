@@ -8,7 +8,7 @@ For our final project, me and a team of two implemented bidirectional search in 
 
 This pacman domain is a simple food search problem. The pacman explores the maze searching for a single goal node such as is shown below. The darker red is paths explored sooner on in the lifetime of the agent. 
 
-![pacman Domain](https://www2.cs.duke.edu/courses/spring15/compsci270/hw1/maze.png)
+![pacman Domain](https://andyzeng.github.io/img/proj/ai/pacmansearch/ucsnewpacman.gif)
 
 
 
