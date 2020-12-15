@@ -13,3 +13,5 @@ This Pacman domain is a simple food search problem. The Pacman explores the maze
 
 
 We have completed an analysis of this algorithm and compared it with other search methods such as DFS, BFS, and UCS. All of our analysis can be found in the [Final_Report.pdf](https://github.com/forksup/CSE-571-Final-Project/blob/main/Final_Report.pdf)
+
+Implemented using Python 2.7.
