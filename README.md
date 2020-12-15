@@ -12,8 +12,6 @@ This Pacman domain is a simple food search problem. The Pacman explores the maze
 
 Our code for the search can be found in [search.py](https://github.com/forksup/CSE-571-Final-Project/blob/main/search.py) in the *bDSearchMM* and *bDSearchMM0* functions. bDSearchMM utilizes a heuristic for path finding where as bDSearchMM0 is bidrectional BFS otherwise known as brute force.
 
-[pacman Domain](https://i.imgur.com/w9XlrDR.png)
-
 We have completed an analysis of this algorithm and compared it with other search methods such as DFS, BFS, and UCS. All of our analysis can be found in the [Final_Report.pdf](https://github.com/forksup/CSE-571-Final-Project/blob/main/Final_Report.pdf)
 
 Implemented using Python 2.7.
